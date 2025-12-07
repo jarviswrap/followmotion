@@ -1,0 +1,1 @@
+ /Volumes/exssd/followmotion/example/.dart_tool/flutter_build/1485ada6b18f52ed37ffa3506f76708a/native_assets.json: 

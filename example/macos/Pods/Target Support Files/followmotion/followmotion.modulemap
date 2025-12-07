@@ -1,0 +1,6 @@
+framework module followmotion {
+  umbrella header "followmotion-umbrella.h"
+
+  export *
+  module * { export * }
+}

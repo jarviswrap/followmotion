@@ -1,0 +1,28 @@
+{
+  "name": "followmotion",
+  "version": "1.0.0",
+  "summary": "Global input plugin for macOS",
+  "description": "Global input listening and simulation on macOS.",
+  "homepage": "https://example.com",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Author": "author@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "platforms": {
+    "osx": "10.14"
+  },
+  "requires_arc": true,
+  "dependencies": {
+    "FlutterMacOS": [
+
+    ]
+  },
+  "frameworks": "FlutterMacOS"
+}
